@@ -6,7 +6,7 @@
 
 
 
-**Timeframe:** 14 days
+**Timeframe:** 14 days from receiving these instructions
 
 
 
@@ -14,10 +14,11 @@
 
 1. Download and Install Altium Designer - there is a free student version
 2. Clone the GitHub Repo with the component library and design rules
-3. Create a new Altium Project
-4. Setup the project with the library and design rules
-5. Design a schematic for an led strip that incorporates 2 different led colors
-6. maximum design space: 7mm x 210 mm
+3. Replace "Max_Mustermann" with your own name in the project template folder 
+4. Create a new Altium Project
+5. Setup the project with the library and design rules
+6. Design a schematic for an led strip that incorporates 2 different led colors
+7. maximum design space: 7mm x 210 mm
   a. supply voltage: 24V
   b. The individual LEDs should have a minum brightness of 1000 mcd
   c. make sure to take into account how hot each component will get and make sure that with an air temp of 35deg C the component does not go out of spec
@@ -46,3 +47,8 @@ Resources:
 1. https://www.altium.com/documentation/altium-designer
 2. google.com
 3. Your module leader
+
+
+When done:
+1. When you are finished with the above task, send your module leader a .zip of the 01 folder
+2. If it is clear that you have put in sufficient effort your module leader will get back to you and give you feedback
