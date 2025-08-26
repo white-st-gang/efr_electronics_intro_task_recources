@@ -18,56 +18,31 @@
 4. Setup the project with the library and design rules
 5. Design a schematic for an led strip that incorporates 2 different led colors
 6. maximum design space: 7mm x 210 mm
-
-supply voltage: 24V
-
-The individual LEDs should have a minum brightness of 1000 mcd
-
-make sure to take into account how hot each component will get and make sure that with an air temp of 35deg C the component does not go out of spec
-
-Solderable connection
-
-Rout the designed PCB:
-
-number of layers: 2
-
-leds should be evenly spaced in x and y directions
-
-a different number of leds between the colors is ok
-
-the two colors should be distributed evenly across the whole pcb
-
-add your name and season to the pcb with silk screen
-
-Do a design rules check at the end, make sure you don't have any violations
+  a. supply voltage: 24V
+  b. The individual LEDs should have a minum brightness of 1000 mcd
+  c. make sure to take into account how hot each component will get and make sure that with an air temp of 35deg C the component does not go out of spec
+  d. Solderable connection
+  e. make sure the schematics complies without errors
+8. Rout the designed PCB:
+  a. number of layers: 2
+  b. leds should be evenly spaced in x and y directions (a different number of leds between the colors is ok)
+  c. the two colors should be distributed evenly across the whole pcb
+  d. add your name and season to the pcb with silk screen
+  d. Do a design rules check at the end, make sure you don't have any violations
 
 
 
 Extra Tipps:
-
-Use Net Labels in the schematics
-
-Part numbers and datasheets are in the component properties
-
-Keep your schematics organised and documented with any calculations or important information from a datasheet
-
-Adjust the component properties as needed to fit the specific needs of the project
-
-Learn the keyboard shortcuts!
-
-change between board layout, 2D, and 3D views with “1”, “2”, “3”
-
-change the grid size when routing with “G”
-
+1. Use Net Labels in the schematics
+2. Part numbers and datasheets are in the component properties
+3. Keep your schematics organised and documented with any calculations or important information from a datasheet
+4. Adjust the component properties as needed to fit the specific needs of the project
+5. Learn the keyboard shortcuts!
+  a. change between board layout, 2D, and 3D views with “1”, “2”, “3”
+  b. change the grid size when routing with “G”
 
 
 Resources:
-
-https://www.altium.com/documentation/altium-designer
-
-google.com
-
-Your module leader
-
-
-
+1. https://www.altium.com/documentation/altium-designer
+2. google.com
+3. Your module leader
