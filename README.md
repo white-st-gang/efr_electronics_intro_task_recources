@@ -44,7 +44,7 @@ Extra Tipps:
 5. Learn the keyboard shortcuts!
   a. change between board layout, 2D, and 3D views with “1”, “2”, “3”
   b. change the grid size when routing with “G”
-6. Use a Git GUI, we use "[Git Extensions]([url](https://gitextensions.github.io/))" in the team.
+6. Use a Git GUI, we use "Git Extensions" (https://gitextensions.github.io/) in the team
 
 
 Resources:
