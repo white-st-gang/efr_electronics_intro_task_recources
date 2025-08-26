@@ -23,17 +23,27 @@
 9. Design a schematic for an led strip that incorporates 2 different led colors
 10. maximum design space: 7mm x 210 mm
   a. supply voltage: 24V
+
   b. The individual LEDs should have a minum brightness of 1000 mcd
+  
   c. make sure to take into account how hot each component will get and make sure that with an air temp of 35deg C the component does not go out of spec
+  
   d. Solderable connection
+  
   e. make sure the schematics complies without errors
-11. Rout the designed PCB:
+  
+12. Rout the designed PCB:
   a. number of layers: 2
+
   b. leds should be evenly spaced in x and y directions (a different number of leds between the colors is ok)
+  
   c. the two colors should be distributed evenly across the whole pcb
+  
   d. add your name and season to the pcb with silk screen
+  
   d. Do a design rules check at the end, make sure you don't have any violations
-12. Make sure to commit and push regularly 
+  
+14. Make sure to commit and push regularly 
 
 
 Extra Tipps:
@@ -43,7 +53,9 @@ Extra Tipps:
 4. Adjust the component properties as needed to fit the specific needs of the project
 5. Learn the keyboard shortcuts!
   a. change between board layout, 2D, and 3D views with “1”, “2”, “3”
+
   b. change the grid size when routing with “G”
+  
 7. Use a Git GUI, we use "Git Extensions" (https://gitextensions.github.io/) in the team
 
 
