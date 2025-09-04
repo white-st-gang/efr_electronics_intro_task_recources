@@ -22,22 +22,22 @@
 8. Setup the project with the library and design rules
 9. Design a schematic for an led strip that incorporates 2 different led colors. This LED strip will be used as an **Autonomous System Status Indicator (ASSI)** in the upcoming season.
 
-    1. supply voltage: 24V
-    2. make sure to take into account how hot each component will get and make sure that with an air temp of 35deg C the component does not go out of spec
-    3. Solderable connection to the wire harness
-    4. Refer to the FSG 2025 v1.1 rules for guidance on how bright the leds should be
-    5. make sure the schematics complies without errors
+   1. supply voltage: 24V
+   2. make sure to take into account how hot each component will get and make sure that with an air temp of 35deg C the component does not go out of spec
+   3. Solderable connection to the wire harness
+   4. Refer to the FSG 2025 v1.1 rules for guidance on how bright the LEDs should be
+   5. make sure the schematics complies without errors
 
-11. Rout the designed PCB:
+10. Rout the designed PCB:
 
     1. maximum design space: 7mm x 210 mm
     2. number of layers: 2
-    3. leds should be evenly spaced in x and y directions (a different number of leds between the colors is ok)
-    6. Refer to the FSG 2025 v1.1 rules for guidance on component placment, allowed board shapes, and the allowed minimum illuminated surface.
-    7. add your name and season to the pcb with silk screen
-    8. Do a design rules check at the end, make sure you don't have any violations
+    3. LEDs should be evenly spaced in x and y directions (a different number of LEDs between the colors is ok)
+    4. Refer to the FSG 2025 v1.1 rules for guidance on component placement, allowed board shapes, and the allowed minimum illuminated surface.
+    5. add your name and season to the PCB with silk screen
+    6. Do a design rules check at the end, make sure you don't have any violations
 
-13. Make sure to commit and push regularly
+11. Make sure to commit and push regularly
 
 
 
@@ -52,14 +52,14 @@ Extra Tipps:
    1. change between board layout, 2D, and 3D views with “1”, “2”, “3”
    2. change the grid size when routing with “G”
 
-6. Use a Git GUI if you do not have much Git expereince, we use "Git Extensions" (https://gitextensions.github.io/) in the team
+6. Use a Git GUI if you do not have much Git experience, we use "Git Extensions" (https://gitextensions.github.io/) in the team
 
 
 
 Resources:
 
 1. https://www.altium.com/documentation/altium-designer
-2. https://www.formulastudent.de/fileadmin/user_upload/all/2025/rules/FS-Rules_2025_v1.1.pdf
+2. https://www.formulastudent.de/fileadmin/user\_upload/all/2025/rules/FS-Rules\_2025\_v1.1.pdf
 3. google.com
 4. Your module leader
 
